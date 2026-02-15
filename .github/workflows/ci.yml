@@ -63,3 +63,5 @@ jobs:
             echo "Aplikacja jest zmęczona, szefie."
             exit 1
           fi
+
+          # test
